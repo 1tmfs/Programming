@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\007_ScoreCalculate.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\_007_ScoreCalculate.Form1.resources
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\_007_ScoreCalculate.Properties.Resources.resources
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\007_ScoreCalculate.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\007_ScoreCalculate.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\bin\Debug\007_ScoreCalculate.exe.config
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\bin\Debug\007_ScoreCalculate.exe
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\bin\Debug\007_ScoreCalculate.pdb
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\007_ScoreCalculate.exe
+C:\Users\USER\source\repos\Programming\007_ScoreCalculate\obj\Debug\007_ScoreCalculate.pdb
